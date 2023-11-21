@@ -1,0 +1,16 @@
+C:\.Net7-test\test\bin\Release\net7.0-windows\WinFormsApp3.exe
+C:\.Net7-test\test\bin\Release\net7.0-windows\WinFormsApp3.deps.json
+C:\.Net7-test\test\bin\Release\net7.0-windows\WinFormsApp3.runtimeconfig.json
+C:\.Net7-test\test\bin\Release\net7.0-windows\WinFormsApp3.dll
+C:\.Net7-test\test\bin\Release\net7.0-windows\WinFormsApp3.pdb
+C:\.Net7-test\test\obj\Release\net7.0-windows\WinFormsApp3.Form1.resources
+C:\.Net7-test\test\obj\Release\net7.0-windows\WinFormsApp3.csproj.GenerateResource.cache
+C:\.Net7-test\test\obj\Release\net7.0-windows\WinFormsApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\.Net7-test\test\obj\Release\net7.0-windows\WinFormsApp3.AssemblyInfoInputs.cache
+C:\.Net7-test\test\obj\Release\net7.0-windows\WinFormsApp3.AssemblyInfo.cs
+C:\.Net7-test\test\obj\Release\net7.0-windows\WinFormsApp3.csproj.CoreCompileInputs.cache
+C:\.Net7-test\test\obj\Release\net7.0-windows\WinFormsApp3.dll
+C:\.Net7-test\test\obj\Release\net7.0-windows\refint\WinFormsApp3.dll
+C:\.Net7-test\test\obj\Release\net7.0-windows\WinFormsApp3.pdb
+C:\.Net7-test\test\obj\Release\net7.0-windows\WinFormsApp3.genruntimeconfig.cache
+C:\.Net7-test\test\obj\Release\net7.0-windows\ref\WinFormsApp3.dll
